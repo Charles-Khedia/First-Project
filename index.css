@@ -1,0 +1,30 @@
+
+.header{
+    background-image: url(../images/pattern.webp);
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+.sub-header{
+    color:white;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+   
+}
+.sub-header1{
+    background-color: mediumspringgreen;
+}
+.sub-header2{
+    background-color: lightcoral;
+}
+.sub-header3{
+    background-color: skyblue;
+}
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;  
+}
